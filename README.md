@@ -12,7 +12,7 @@ mô phỏng cơ chế High Availability và Failover ở tầng ứng dụng.
 - 1 EC2 MySQL Standby (Replication)
 - Failover được xử lý trong code PHP
 
-![Architecture](architecture/aws-architecture.png)
+![diagram](images/DBCloud_Diagram.jpg)
 
 ## 3. Công nghệ sử dụng
 - AWS EC2
