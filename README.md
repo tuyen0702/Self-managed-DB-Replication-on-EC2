@@ -21,7 +21,10 @@ mô phỏng cơ chế High Availability và Failover ở tầng ứng dụng.
 - MariaDB (MySQL compatible)
 
 ## 4. Cấu trúc thư mục
-
+- web
+- database
+- demo
+- images
 
 ## 5. Triển khai nhanh
 1. Cài MySQL trên 2 EC2
